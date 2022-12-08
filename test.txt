@@ -1,5 +1,11 @@
+import matplotlib.pyplot as plt
+
 print("Hello World!")
 print("Hello again!")
 
 def Printer(a):
     print(a)
+
+
+def Plotter(a):
+    plt.plot(a)

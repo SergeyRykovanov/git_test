@@ -9,3 +9,5 @@ def Printer(a):
 
 def Plotter(a):
     plt.plot(a)
+
+    return 0
